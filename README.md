@@ -1,0 +1,2 @@
+# blogCDN
+jsDelivr  CDN
